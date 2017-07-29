@@ -1,6 +1,4 @@
-## VK567
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## WebSite
 - [127.0.0.1:8060/plats](http://127.0.0.1:8060/plats)
 - [127.0.0.1:8087/plats](http://127.0.0.1:8087/plats)
 - [106.3.41.199:8060/plats](http://106.3.41.199:8060/plats)
