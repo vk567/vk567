@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T08:45:18.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="DcDwOYy4JxgS9STcCkIV" version="21.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-30T10:09:30.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="1zhMdpeJZlc5ObZFLQ-m" version="21.6.9" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="信用证">
     <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,49 +79,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Lsoh_-KXmb2deAOBUh0t" name="信用证逻辑设计">
-    <mxGraphModel dx="1509" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hyZXBz6emrAKfZKL808K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyZXBz6emrAKfZKL808K-1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hyZXBz6emrAKfZKL808K-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增开证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增开证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="140" y="355" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hyZXBz6emrAKfZKL808K-2" target="hyZXBz6emrAKfZKL808K-3">
+        <mxCell id="hyZXBz6emrAKfZKL808K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hyZXBz6emrAKfZKL808K-2" target="hyZXBz6emrAKfZKL808K-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="370" y="355" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="600" y="355" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyZXBz6emrAKfZKL808K-7">
+        <mxCell id="hyZXBz6emrAKfZKL808K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hyZXBz6emrAKfZKL808K-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增付证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增付证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hyZXBz6emrAKfZKL808K-9" target="hyZXBz6emrAKfZKL808K-10">
+        <mxCell id="hyZXBz6emrAKfZKL808K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hyZXBz6emrAKfZKL808K-9" target="hyZXBz6emrAKfZKL808K-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="370" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hyZXBz6emrAKfZKL808K-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+        <mxCell id="hyZXBz6emrAKfZKL808K-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" parent="1" vertex="1">
           <mxGeometry x="600" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="填报" id="nM916Ne7KocaDGqm2es4">
-    <mxGraphModel dx="1830" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3770" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ER8OnVnSHmYjHbvC8wPC-0" />
         <mxCell id="ER8OnVnSHmYjHbvC8wPC-1" parent="ER8OnVnSHmYjHbvC8wPC-0" />
@@ -223,44 +223,25 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="填报逻辑设计" id="hV5u1JMb7IkRRSEVOBjH">
-    <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="填报逻辑设计" id="CcUalENq8iR1g61pFP1w">
+    <mxGraphModel dx="1408" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-0" />
-        <mxCell id="P773bORGd6G33Ij7ZvKO-1" parent="P773bORGd6G33Ij7ZvKO-0" />
-        <mxCell id="P773bORGd6G33Ij7ZvKO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P773bORGd6G33Ij7ZvKO-1" source="P773bORGd6G33Ij7ZvKO-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="385" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="PxssD8t_apzB5oJRL4lt-0" />
+        <mxCell id="PxssD8t_apzB5oJRL4lt-1" parent="PxssD8t_apzB5oJRL4lt-0" />
+        <mxCell id="bXXVzrGHYjc252tzQ8-S-0" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;物资对应代码&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="PxssD8t_apzB5oJRL4lt-1">
+          <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增开证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="140" y="355" width="120" height="60" as="geometry" />
+        <mxCell id="bXXVzrGHYjc252tzQ8-S-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;财务编号维护&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="PxssD8t_apzB5oJRL4lt-1">
+          <mxGeometry x="90" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P773bORGd6G33Ij7ZvKO-1" source="P773bORGd6G33Ij7ZvKO-5" target="P773bORGd6G33Ij7ZvKO-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bXXVzrGHYjc252tzQ8-S-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;外贸数据填报&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="PxssD8t_apzB5oJRL4lt-1">
+          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="370" y="355" width="120" height="60" as="geometry" />
+        <mxCell id="bXXVzrGHYjc252tzQ8-S-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;客商对应代码&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="PxssD8t_apzB5oJRL4lt-1">
+          <mxGeometry x="90" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="600" y="355" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P773bORGd6G33Ij7ZvKO-1" source="P773bORGd6G33Ij7ZvKO-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;新增付证申请单&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P773bORGd6G33Ij7ZvKO-1" source="P773bORGd6G33Ij7ZvKO-10" target="P773bORGd6G33Ij7ZvKO-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单审批&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="370" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P773bORGd6G33Ij7ZvKO-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;申请单打印&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="P773bORGd6G33Ij7ZvKO-1">
-          <mxGeometry x="600" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="bXXVzrGHYjc252tzQ8-S-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;内贸数据填报&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="PxssD8t_apzB5oJRL4lt-1">
+          <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
