@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T09:12:50.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="bfp4E4HqTC7Y3r2iIz3i" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-31T11:05:26.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="tzo4fHwC5wy_BQWz8Ovf" version="21.6.9" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="信用证">
     <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="海运3" id="tTjn9RdVL18DAIQ3fQJ4">
-    <mxGraphModel dx="1509" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G1fZ3TQZm0Tifg3tfP_j-0" />
         <mxCell id="G1fZ3TQZm0Tifg3tfP_j-1" parent="G1fZ3TQZm0Tifg3tfP_j-0" />
@@ -561,6 +561,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oM8KNjjHGGm5iVxTcnlc-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G1fZ3TQZm0Tifg3tfP_j-1" source="G1fZ3TQZm0Tifg3tfP_j-3" target="G1fZ3TQZm0Tifg3tfP_j-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="海运3 的副本" id="BPJvg_hPybSCf0BPbAuI">
+    <mxGraphModel dx="1760" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-0" />
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-1" parent="Iql8Ux1CmBP7WDXWfuSh-0" />
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-2" value="海运收款认领" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#5B9BD5;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;fontSize=16;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-1">
+          <mxGeometry x="20" y="10" width="160" height="490" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-3" value="&lt;div&gt;记账日期&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;业务场景&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领单号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;资金单据编号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;单据状态&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;客商名称&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;银行账号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;银行行号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;开户行名称&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;回单号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;银行流水号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;银行摘要&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;金额&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;币种&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;汇率&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领部门科室&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领人电话&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收款类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;交易日期&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;本次认领总金额&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;会计凭证&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-2">
+          <mxGeometry y="26" width="160" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-4" value="附件信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#5B9BD5;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;fontSize=16;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-1">
+          <mxGeometry x="270" y="210" width="160" height="130" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-5" value="&lt;div&gt;文件名称&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;大小（M）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;上传人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;上传时间&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-4">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-6" value="审批信息" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#5B9BD5;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;fontSize=16;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-1">
+          <mxGeometry x="270" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-7" value="&lt;div&gt;审批岗位&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审批人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审批结果&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审批意见&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;接收时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审批时间&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-6">
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-9" value="认领明细" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#5B9BD5;fontColor=#ffffff;strokeColor=#006EAF;fillStyle=solid;fontSize=16;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-1">
+          <mxGeometry x="270" y="20" width="160" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iql8Ux1CmBP7WDXWfuSh-10" value="&lt;div&gt;贸易类型&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;利润中心&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;船名&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;航次号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;费用类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领合同号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;认领金额&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="Iql8Ux1CmBP7WDXWfuSh-9">
+          <mxGeometry y="26" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="KyLAF3CAaLiF131lNUF6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Iql8Ux1CmBP7WDXWfuSh-1" source="Iql8Ux1CmBP7WDXWfuSh-3" target="Iql8Ux1CmBP7WDXWfuSh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyLAF3CAaLiF131lNUF6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Iql8Ux1CmBP7WDXWfuSh-1" source="Iql8Ux1CmBP7WDXWfuSh-3" target="Iql8Ux1CmBP7WDXWfuSh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KyLAF3CAaLiF131lNUF6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Iql8Ux1CmBP7WDXWfuSh-1" source="Iql8Ux1CmBP7WDXWfuSh-3" target="Iql8Ux1CmBP7WDXWfuSh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
