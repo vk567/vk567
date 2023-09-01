@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T08:49:47.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="bj5RcCCJ0UdVpaSE5zkD" version="21.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-01T10:49:11.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="6eyLWke18Z5qHcbltWFu" version="21.6.9" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="信用证">
     <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -616,12 +616,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOsLf7o_GdRYfZ7ycqxw" name="海运逻辑1">
-    <mxGraphModel dx="2112" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;海运系统&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#5B9BD5;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="200" height="600" as="geometry" />
+          <mxGeometry x="410" y="50" width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;海运租船合同&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5B9BD5;fontStyle=1;fontSize=14;" vertex="1" parent="ACfJL9D6nO6-VESk5AZ9-8">
           <mxGeometry x="40" y="75" width="120" height="60" as="geometry" />
@@ -669,7 +669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;集团分公司&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#5B9BD5;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="680" y="40" width="200" height="730" as="geometry" />
+          <mxGeometry x="770" y="50" width="200" height="730" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.836;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ACfJL9D6nO6-VESk5AZ9-18" target="ACfJL9D6nO6-VESk5AZ9-1">
           <mxGeometry relative="1" as="geometry">
@@ -706,10 +706,10 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-1" target="ACfJL9D6nO6-VESk5AZ9-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="734" y="150.14999999999998" as="targetPoint" />
+            <mxPoint x="824" y="160.14999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="140" />
-              <mxPoint x="510" y="140" />
+              <mxPoint x="600" y="150" />
+              <mxPoint x="600" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -720,11 +720,11 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-11" target="ACfJL9D6nO6-VESk5AZ9-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="216" as="sourcePoint" />
-            <mxPoint x="690" y="215" as="targetPoint" />
+            <mxPoint x="530" y="226" as="sourcePoint" />
+            <mxPoint x="780" y="225" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="588" y="217" />
-              <mxPoint x="588" y="215" />
+              <mxPoint x="678" y="227" />
+              <mxPoint x="678" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -735,8 +735,8 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-54" target="ACfJL9D6nO6-VESk5AZ9-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="325" as="targetPoint" />
-            <mxPoint x="734.1800000000001" y="325.15999999999997" as="sourcePoint" />
+            <mxPoint x="540" y="335" as="targetPoint" />
+            <mxPoint x="824.1800000000001" y="335.15999999999997" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -747,8 +747,8 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-16" target="ACfJL9D6nO6-VESk5AZ9-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="395" as="sourcePoint" />
-            <mxPoint x="690" y="395" as="targetPoint" />
+            <mxPoint x="530" y="405" as="sourcePoint" />
+            <mxPoint x="780" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-37" value="新增修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ACfJL9D6nO6-VESk5AZ9-36">
@@ -761,8 +761,8 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.011;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-55" target="ACfJL9D6nO6-VESk5AZ9-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="415" as="targetPoint" />
-            <mxPoint x="707" y="414.81999999999994" as="sourcePoint" />
+            <mxPoint x="590" y="425" as="targetPoint" />
+            <mxPoint x="797" y="424.81999999999994" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -772,13 +772,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-82" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;财务资金系统&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#5B9BD5;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="40" width="200" height="240" as="geometry" />
+          <mxGeometry x="1126" y="50" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-87" value="&lt;font color=&quot;#ffffff&quot;&gt;银行流水/票据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5B9BD5;fontStyle=1;fontSize=14;" vertex="1" parent="ACfJL9D6nO6-VESk5AZ9-82">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-90" value="&lt;font&gt;首荣系统&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#5B9BD5;startSize=40;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="200" height="600" as="geometry" />
+          <mxGeometry x="100" y="50" width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-91" value="&lt;font color=&quot;#ffffff&quot;&gt;海运收款认领&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5B9BD5;fontStyle=1;fontSize=14;" vertex="1" parent="ACfJL9D6nO6-VESk5AZ9-90">
           <mxGeometry x="40" y="515" width="120" height="60" as="geometry" />
@@ -790,7 +790,7 @@
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-92" value="&lt;font color=&quot;#ffffff&quot;&gt;财务核算系统&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#5B9BD5;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="310" width="200" height="240" as="geometry" />
+          <mxGeometry x="1126" y="320" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-110" value="&lt;font color=&quot;#ffffff&quot;&gt;生成凭证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#5B9BD5;fontStyle=1;fontSize=14;" vertex="1" parent="ACfJL9D6nO6-VESk5AZ9-92">
           <mxGeometry x="54" y="140" width="120" height="60" as="geometry" />
@@ -805,8 +805,8 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="479.9999999999999" as="sourcePoint" />
-            <mxPoint x="170" y="479.9999999999999" as="targetPoint" />
+            <mxPoint x="410" y="489.9999999999999" as="sourcePoint" />
+            <mxPoint x="260" y="489.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-98" value="推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ACfJL9D6nO6-VESk5AZ9-97">
@@ -816,9 +816,9 @@
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="590" as="targetPoint" />
+            <mxPoint x="810" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="590" />
+              <mxPoint x="260" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -830,22 +830,22 @@
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-104" target="ACfJL9D6nO6-VESk5AZ9-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="680" />
+              <mxPoint x="200" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-110" target="ACfJL9D6nO6-VESk5AZ9-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="680" />
+              <mxPoint x="1240" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ACfJL9D6nO6-VESk5AZ9-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ACfJL9D6nO6-VESk5AZ9-106" target="ACfJL9D6nO6-VESk5AZ9-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="580" />
-              <mxPoint x="1000" y="480" />
+              <mxPoint x="1090" y="590" />
+              <mxPoint x="1090" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
