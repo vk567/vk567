@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T10:49:11.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="6eyLWke18Z5qHcbltWFu" version="21.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:42:02.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="IH8zkW6kpHDqyyF8ZBli" version="21.6.9" type="github" pages="12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="信用证">
     <mxGraphModel dx="1056" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -853,6 +853,38 @@
           <mxGeometry x="-0.2378" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GvAelHoYau-lZXH5JFIY" name="结算管理">
+    <mxGraphModel dx="1242" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YpVIgD__kQkU34zKj5jb-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;填&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;报&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;数&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;据&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="60" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="YpVIgD__kQkU34zKj5jb-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;结束预警&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YpVIgD__kQkU34zKj5jb-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;采购结算&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YpVIgD__kQkU34zKj5jb-11" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255);&quot;&gt;预警通知&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#5b9ad4;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7H9CZRMyyzBpAkLSHs9a-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;内贸销售结算&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7H9CZRMyyzBpAkLSHs9a-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;结束预警&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7H9CZRMyyzBpAkLSHs9a-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;结束预警&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7H9CZRMyyzBpAkLSHs9a-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;结束预警&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5B9BD5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
